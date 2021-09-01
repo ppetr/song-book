@@ -8,6 +8,11 @@ environment:
 
 # dependencies:
 #   path: ^1.7.0
+dependencies:
+  pwa:
+    git:
+      url: git@github.com:ppetr/pwa.git
+      ref: 8e84bf5
 
 dev_dependencies:
   build_runner: ^1.10.0

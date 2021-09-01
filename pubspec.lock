@@ -309,6 +309,15 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.0"
+  pwa:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: "8e84bf5"
+      resolved-ref: "8e84bf58a5c707832d3abb9d22768cadbcc155b5"
+      url: "git@github.com:ppetr/pwa.git"
+    source: git
+    version: "0.2.0"
   scratch_space:
     dependency: transitive
     description:
@@ -316,6 +325,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.0"
+  service_worker:
+    dependency: transitive
+    description:
+      name: service_worker
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.2.4"
   shelf:
     dependency: transitive
     description:
