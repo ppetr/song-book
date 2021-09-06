@@ -1,0 +1,9 @@
+{
+  "name": "Bhajan Book",
+  "short_name": "BhajanBook",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Yoga in Daily Life Bhajan Book",
+  "icons": []
+}
