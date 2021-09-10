@@ -4,6 +4,8 @@ _Status: Draft._
 
 _Disclaimer: This is not an official Google product._
 
+[![Build Status](https://app.travis-ci.com/ppetr/song-book.svg?branch=main)](https://app.travis-ci.com/ppetr/song-book)
+
 ## Purpose
 
 The application allows users to browse and display songs from a supplied list.
